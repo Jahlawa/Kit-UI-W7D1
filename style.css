@@ -1,0 +1,35 @@
+.primary {
+
+	color: #37BC9B
+}
+
+.secondary {
+
+	color: #3BAFDA
+}
+
+.dark {
+
+	color: #656D78
+}
+
+.medium-light {
+
+	color: #CCD1D9
+}
+
+.light{
+
+	color: #E6E9ED
+}
+
+.first-police {
+	font-family: "Lucida" Grande, sans-serif; 
+	font-size: 26px
+
+}
+
+.text-police{
+	font-family: "Arial", Arial, sans-serif;
+	
+}
